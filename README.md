@@ -40,8 +40,8 @@
 - 📚 [Xaringan: The Basics and Beyond](https://github.com/spcanelon/xaringan-basics-and-beyond): xaringan workshop (beginner)
 - 📚 [Introducción al Paquete xaringan](https://github.com/spcanelon/xaringan-rladies-xalapa): Taller de xaringan en castellano (principiante)
 
+<!--
 ## Tools
-<!--style=for-the-badge-->
 ![R](https://img.shields.io/badge/-R-173552?style=for-the-badge&logo=R&logoColor=2365B7)
 ![RStudio](https://img.shields.io/badge/-Rstudio-173552?style=for-the-badge&logo=Rstudio&logoColor=#73A2CE)
 ![Markdown](http://img.shields.io/badge/-Markdown-173552?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
@@ -52,6 +52,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-173552?style=for-the-badge&logo=CSS3&logoColor=2365B7)
 ![AdobeIllustrator](https://img.shields.io/badge/-AdobeIllustrator-173552?style=for-the-badge&logo=AdobeIllustrator&logoColor=FFFFFF)
 ![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-173552?style=for-the-badge&logo=AdobePhotoshop&logoColor=FFFFFF)
+-->
 
 <!--
 **spcanelon/spcanelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
