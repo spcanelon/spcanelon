@@ -27,7 +27,7 @@
 
 ## About me
 - 👩🏽‍💻 Pronouns: she/her/ella
-- ⚕️ Applying biomedical informatics in the public and population health fields. I work on projects that develop novel data mining methods to extract pregnancy-related information from Electronic Health Records (EHR) and study the relationship between environment and disease.
+- ⚕️ Applying biomedical informatics in the public and population health fields. I work on projects that develop novel data mining methods to extract information from Electronic Health Record (EHR) data and study pregnancy-related and other outcomes.
 - 📫 How to reach me: Through my [personal website](https://silvia.rbind.io/contact)!
 
 ## Select resources
