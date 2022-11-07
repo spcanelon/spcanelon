@@ -8,7 +8,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spcanelon&theme=buefy&layout=compact&langs-count=5" />
 -->
 
-<a href="https://fosstodon.org/@spcanelon" rel="me">
+<!--Mastodon verification-->
+<link rel="me" href="https://fosstodon.org/@spcanelon">
+<a href="https://fosstodon.org/@spcanelon">
   <img align="left" alt="Silvia's Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />
 </a>
 <a href="https://twitter.com/spcanelon">
@@ -31,7 +33,7 @@
 ## About me
 - 👩🏽‍💻 Pronouns: she/her/ella
 - ⚕️ Applying biomedical informatics in the public and population health fields. I work on projects that develop novel data mining methods to extract information from Electronic Health Record (EHR) data and study pregnancy-related and other outcomes.
-- 📫 How to reach me: Through my [personal website](https://silvia.rbind.io/contact) or find me on <a rel="me" href="https://fosstodon.org/@spcanelon">Mastodon</a>!
+- 📫 How to reach me: Through my [personal website](https://silvia.rbind.io/contact)!
 
 ## Select resources
 - 🔗 [silvia](https://github.com/spcanelon/silvia): Personal website built with Hugo and Blogdown
