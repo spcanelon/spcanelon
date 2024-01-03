@@ -36,7 +36,7 @@
 - 📫 How to reach me: Through my [personal website](https://silvia.rbind.io/contact)!
 
 ## Select resources
-- 🔗 [silvia](https://github.com/spcanelon/silvia): Personal website built with Hugo and Blogdown
+- 🔗 [silvia](https://github.com/spcanelon/silvia): Personal website built with Quarto
 - 📦 [TidyTuesdayAltText](https://github.com/spcanelon/TidyTuesdayAltText): R data package containing alternative text for media attached to TidyTuesday tweets
 - 💬 [Revealing Room for Improvement in Accessibility within a Social Media Data Visualization Learning Community](https://github.com/spcanelon/csvConf2021): Data visualization accessibility talk
 - 📝 [R-Ladies xaringan template](https://github.com/spcanelon/RLadies-xaringan-template): xaringan presentation template with an R-Ladies theme
