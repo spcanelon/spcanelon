@@ -1,8 +1,7 @@
-## Hi there 👋🏽
+## Hi there 👋🏽 [<img align="right" width="400" alt="Silvia's dynamically generated GitHub stats" src="https://github-readme-stats.vercel.app/api?username=spcanelon&show_icons=true&title_color=002642&icon_color=a23e02&bg_color=ffffff&border_color=2e4963&text_color=173552"/>](https://github.com/spcanelon/)
+
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
-
-[<img align="right" width="400" alt="Silvia's dynamically generated GitHub stats" src="https://github-readme-stats.vercel.app/api?username=spcanelon&show_icons=true&title_color=002642&icon_color=a23e02&bg_color=ffffff&border_color=2e4963&text_color=173552"/>](https://github.com/spcanelon/)
 
 <!--Languages
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spcanelon&theme=buefy&layout=compact&langs-count=5" />
@@ -28,7 +27,7 @@
 <a href="https://www.linkedin.com/in/spcanelon/">
   <img align="left" alt="Silvia's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br>
+<br><br><br>
 
 ## About me
 - 👩🏽‍💻 Pronouns: she/her/ella
