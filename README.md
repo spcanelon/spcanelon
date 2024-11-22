@@ -9,23 +9,28 @@
 
 <!--Mastodon verification-->
 <link rel="me" href="https://fosstodon.org/@spcanelon">
+<a href="https://bsky.app/profile/silviacanelon.com">
+  <img align="left" alt="Silvia's Bluesky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/bluesky.svg" />
+</a>
+<!--
 <a href="https://fosstodon.org/@spcanelon">
-  <img align="left" alt="Silvia's Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />
+  <img align="left" alt="Silvia's Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mastodon.svg" />
 </a>
 <a href="https://twitter.com/spcanelon">
-  <img align="left" alt="Silvia's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Silvia's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/twitter.svg" />
+</a>
+-->
+<a href="https://www.linkedin.com/in/spcanelon/">
+  <img align="left" alt="Silvia's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/spcanelon">
-  <img align="left" alt="Silvia's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Silvia's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" />
 </a>
 <a href="https://orcid.org/0000-0003-1709-1394">
-  <img align="left" alt="Silvia's ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
+  <img align="left" alt="Silvia's ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/orcid.svg" />
 </a>
 <a href="https://scholar.google.com/citations?user=GAzkvpcAAAAJ&hl=en&oi=ao">
-  <img align="left" alt="Silvia's GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
-</a>
-<a href="https://www.linkedin.com/in/spcanelon/">
-  <img align="left" alt="Silvia's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Silvia's GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlescholar.svg" />
 </a>
 <br><br><br>
 
